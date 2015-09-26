@@ -23,3 +23,5 @@ Subject
 Activity
 Measurement
 Average
+
+Because values like "tBodyAcc-mean()-X" are observations, not variables, I did not "clean" them by giving them more human readable names.
