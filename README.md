@@ -23,6 +23,3 @@ Subject
 Activity
 Measurement
 Average
-
-
-* Based on the descriptions provided in features_info.txt, the mean() and std() columns are the ones contains Mean Values and Standard Deviations.  While fields like meanFreq() can arguably be included, I opted to use only the columns specifically labeled as mean and standard deviation.
